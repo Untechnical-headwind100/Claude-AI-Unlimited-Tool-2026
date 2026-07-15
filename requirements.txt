@@ -1,0 +1,5 @@
+rich
+keyboard
+pygame
+pywin32
+mouse
